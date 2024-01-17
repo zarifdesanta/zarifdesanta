@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gazi Md. Julcarnine</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [zarfdev.netlify.app](zarfdev.netlify.app)
+- 👨‍💻 All of my projects are available at [zarfdev](https://zarfdev.netlify.app/)
 
 - 📫 How to reach me **zarifdesanta@gmail.com**
 
